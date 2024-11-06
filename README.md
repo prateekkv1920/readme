@@ -119,5 +119,5 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1100&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+The beauty of open source is that ;it brings together people from all walks of life;to create something greater than the sum of its parts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1100&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B%2C+The beauty of open source is that +%F0%9F%91%8B%2C;%F0%9F%91%8B%2C+it brings together people from all walks of life+%F0%9F%91%8B%2C;%F0%9F%91%8B%2C+to create something greater than the sum of its parts+%F0%9F%91%8B%2C" alt="Typing SVG" />
 </div>
