@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekv1920&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekkv1920&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 <div align="center">
