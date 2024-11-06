@@ -13,7 +13,7 @@
   
   💬 Ask me about **Python, Data Analysis, AI/ML**
   
-  📫 Reach me at **prateekic150706@gmail.com**
+  📫 Reach me at **prateekkv150706@gmail.com**
   
   📱 Contact: **7837360860**
 </div>
