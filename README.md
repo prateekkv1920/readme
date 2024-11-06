@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateakkv1920&label=Profile%20views&color=6A5ACD&style=for-the-badge" alt="prateakkv1920" />
-  <img src="https://img.shields.io/github/followers/prateakkv1920?label=Followers&style=for-the-badge&color=6A5ACD" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=prateekkv1920&label=Profile%20views&color=6A5ACD&style=for-the-badge" alt="prateekkv1920" />
+  <img src="https://img.shields.io/github/followers/prateekkv1920?label=Followers&style=for-the-badge&color=6A5ACD" alt="followers" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateakkv1920&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prateekkv1920&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 <h2 align="center">
@@ -34,7 +34,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratank-kv-813822281/" target="_blank">
+  <a href="https://www.linkedin.com/in/prateek-kv-813822281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/prateakkv1920" target="_blank">
@@ -87,26 +87,26 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateakkv1920&repo=django-social-media&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekkv1920&repo=django-social-media&theme=tokyonight" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateakkv1920&repo=tour-it-dashboard&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateekkv1920&repo=tour-it-dashboard&theme=tokyonight" />
   </a>
 </div>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateakkv1920&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateakkv1920&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekkv1920&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekkv1920&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateakkv1920&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekv1920&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateakkv1920&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateekkv1920&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
