@@ -1,86 +1,79 @@
-<h1 align="center">Hi 👋, I'm PRATEEK</h1>
-<h3 align="center">A passionate AI/ML Engineer and Data Enthusiast</h3>
+$(document).ready(function(){
+    $(window).scroll(function(){
+        // sticky navbar on scroll script
+        if(this.scrollY > 20){
+            $('.navbar').addClass("sticky");
+        }else{
+            $('.navbar').removeClass("sticky");
+        }
+        
+        // scroll-up button show/hide script
+        if(this.scrollY > 500){
+            $('.scroll-up-btn').addClass("show");
+        }else{
+            $('.scroll-up-btn').removeClass("show");
+        }
+    });
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateakkv1920&label=Profile%20views&color=0e75b6&style=flat" alt="prateakkv1920" />
-</p>
+    // slide-up script
+    $('.scroll-up-btn').click(function(){
+        $('html').animate({scrollTop: 0});
+        // removing smooth scroll on slide-up button click
+        $('html').css("scrollBehavior", "auto");
+    });
 
-<div align="center">
-  
-  🔭 I'm currently working as a **Student Ambassador at Pregrad**
-  
-  🌱 I'm currently learning **Advanced AI/ML Techniques**
-  
-  💬 Ask me about **Python, Data Analysis, AI/ML**
-  
-  📫 Reach me at **prateekkv150706@gmail.com**
-  
-  📱 Contact: **7837360860**
-</div>
+    $('.navbar .menu li a').click(function(){
+        // applying again smooth scroll on menu items click
+        $('html').css("scrollBehavior", "smooth");
+    });
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratank-kv-813822281/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/prateakkv1920" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+    // toggle menu/navbar script
+    $('.menu-btn').click(function(){
+        $('.navbar .menu').toggleClass("active");
+        $('.menu-btn i').toggleClass("active");
+    });
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
+    // typing text animation script
+    var typed = new Typed(".typing", {
+        strings: ["Front end developer","Fresher","Technician", "Blogger", "Designer", "Freelancer","Manager"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
+    var typed = new Typed(".typing-3", {
+        strings: ["Connect with me on :)"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
 
-<h2 align="center">🎓 Education</h2>
+    var typed = new Typed(".typing-2", {
+        strings: ["Front end developer","Fresher" ,"Technician", "Blogger", "Designer", "Freelancer","Manager"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
 
-- **Bachelor of Technology (BTech) in Artificial Intelligence and Machine Learning**
-  - IIMT University (2021-Present)
-
-<h2 align="center">💼 Professional Experience</h2>
-
-### Student Ambassador | Pregrad (Jan 2024 - Present)
-- Organizing campus activities and raising awareness about Pregrad's services
-- Developing relationships with student organizations
-- Creating promotional materials and social media content
-- Providing feedback on student needs and interests
-
-### Incubator Cell | IIMT University (Oct 2023 - Jul 2023)
-- Utilized SQL, Excel, and Python for data processing
-- Improved system efficiency by 30%
-- Implemented advanced Excel functions for data analysis
-
-### Intern | Pregrad (Remote)
-- Supported staff in daily tasks
-- Managed files, spreadsheets, and reports
-- Enhanced technical skills through hands-on experience
-
-<h2 align="center">🚀 Projects</h2>
-
-1. **Django Social Media Platform** (Ongoing)
-2. **TOUR IT: Interactive Power BI Dashboard** (July 2024)
-3. **Human Resource: Interactive Tableau Dashboard** (April 2024)
-4. **Python Projects Portfolio** (April 2023)
-
-<h2 align="center">🛠 Skills</h2>
-
-- **Technical:** Advanced Excel, Python, SQL, Power BI, Tableau
-- **Analysis:** Business Analysis, Data Analysis, Business Intelligence
-- **AI/ML:** AIML, Prompt Engineering
-- **Languages:** English (Advanced C1)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateakkv1920&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateakkv1920&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p># readme
-readme.MD 
+    // owl carousel script
+    $('.carousel').owlCarousel({
+        margin: 20,
+        loop: true,
+        autoplay: true,
+        autoplayTimeOut: 2000,
+        autoplayHoverPause: true,
+        responsive: {
+            0:{
+                items: 1,
+                nav: false
+            },
+            600:{
+                items: 2,
+                nav: false
+            },
+            1000:{
+                items: 3,
+                nav: false
+            }
+        }
+    });
+});
