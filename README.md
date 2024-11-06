@@ -61,7 +61,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/IIMT_University-BTech_AI&ML-6A5ACD?style=for-the-badge" alt="Education" />
-  <p><b>2021 - Present</b></p>
+  <p><b>2023 - Present</b></p>
 </div>
 
 <h2 align="center">💼 Professional Experience</h2>
