@@ -27,11 +27,6 @@
     📱 Contact: <b>7837360860</b>
   </p>
 </div>
- $body = @{
-        CreatorID = "?wt.mc_id=studentamb_394948"
-        Text = "for example, if your original link is https://docs.microsoft.com/en-us/powerapps/, "
-    }
-    Invoke-RestMethod -Uri https://addid.azurewebsites.net/api/addID -Body ($body | ConvertTo-JSON)
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
