@@ -20,7 +20,8 @@
     <a href="https://linktr.ee/Prateek_kv_"  target="_blank">
 <p align="left">
 My Socials </p>
-
+</div>
+<div align="center">
   <p align="left">
     🔭 Currently: <b>Student Ambassador at Pregrad</b><br>
     🌱 Learning: <b>Advanced AI/ML Techniques</b><br>
@@ -29,6 +30,8 @@ My Socials </p>
     📱 Contact: <b>7837360860</b>
   </p>
 </div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prateek-kv-613822281" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prateek-kv-613822281?trk=profile-badge">Prateek Kv</a></div>
+              
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
