@@ -17,7 +17,7 @@
 </h2>
 
 <div align="center">
-  <img align="right" width="400" src="https://linktr.ee/Prateek_kv_" >
+    <a href="https://linktr.ee/Prateek_kv_"  target="_blank">
 
   <p align="left">
     🔭 Currently: <b>Student Ambassador at Pregrad</b><br>
