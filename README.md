@@ -29,8 +29,10 @@ My Socials </p>
     📫 Email: <b>prateekkv150706@gmail.com</b><br>
     📱 Contact: <b>7837360860</b>
   </p>
+
 </div>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prateek-kv-613822281" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prateek-kv-613822281?trk=profile-badge"><img src="[https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif](https://media.licdn.com/dms/image/v2/D4E03AQEZhgTB_2171A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721315376275?e=2147483647&v=beta&t=d6ZFtFjtDAzUlKWgwk1OU47FsSCg7f1iNlyMwaSSs9M)" width="40"> </a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prateek-kv-613822281" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prateek-kv-613822281?trk=profile-badge">Prateek Kv</a></div>
               
 
 <h2 align="center">
