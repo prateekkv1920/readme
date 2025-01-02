@@ -34,6 +34,8 @@
 </h2>
 
 <p align="center">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prateek-kv-613822281" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prateek-kv-613822281?trk=profile-badge">Prateek Kv</a></div>
+              
   <a href="https://www.linkedin.com/in/prateek-kv-813822281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
