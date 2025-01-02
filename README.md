@@ -30,7 +30,7 @@ My Socials </p>
     📱 Contact: <b>7837360860</b>
   </p>
 </div>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prateek-kv-613822281" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prateek-kv-613822281?trk=profile-badge">Prateek Kv</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prateek-kv-613822281" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prateek-kv-613822281?trk=profile-badge"></a></div>
               
 
 <h2 align="center">
@@ -38,8 +38,7 @@ My Socials </p>
   Connect with me
 </h2>
 
-<p
-</h2> align="center">
+<p</h2> align="center">
 
               
   <a href="https://www.linkedin.com/in/prateek-kv-613822281/" target="_blank">
