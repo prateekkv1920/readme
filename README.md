@@ -17,7 +17,7 @@
 </h2>
 
 <div align="center">
-  <img align="right" width="400" src="[https://camo.githubusercontent.com/](https://linktr.ee/Prateek_kv_)" >
+  <img align="right" width="400" src="https://linktr.ee/Prateek_kv_" >
 
   <p align="left">
     🔭 Currently: <b>Student Ambassador at Pregrad</b><br>
