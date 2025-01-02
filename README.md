@@ -33,7 +33,10 @@
   Connect with me
 </h2>
 
-<p align="center">
+<p <h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+  Connect with me
+</h2> align="center">
 
               
   <a href="https://www.linkedin.com/in/prateek-kv-613822281/" target="_blank">
