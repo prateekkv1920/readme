@@ -18,6 +18,8 @@
 
 <div align="center">
     <a href="https://linktr.ee/Prateek_kv_"  target="_blank">
+<p align="left">
+My Socials </p>
 
   <p align="left">
     🔭 Currently: <b>Student Ambassador at Pregrad</b><br>
@@ -33,7 +35,7 @@
   Connect with me
 </h2>
 
-<p>
+<p
 </h2> align="center">
 
               
